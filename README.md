@@ -28,7 +28,6 @@ This dashboard provides a centralized, data-driven framework for tracking workfo
 - [Financial Salary Breakdown](#-financial-salary-breakdown)
 - [Full-Year Benchmark Metrics](#-full-year-benchmark-metrics)
 - [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
 - [Data Scope & Report Period](#-data-scope--report-period)
 - [Contributing](#-contributing)
   
