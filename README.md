@@ -29,7 +29,6 @@ This dashboard provides a centralized, data-driven framework for tracking workfo
 - [Full-Year Benchmark Metrics](#-full-year-benchmark-metrics)
 - [Project Structure](#-project-structure)
 - [Data Scope & Report Period](#-data-scope--report-period)
-- [Contributing](#-contributing)
   
 
 ---
@@ -252,15 +251,7 @@ hr-attendance-tracker/
 
 ---
 
-## 🤝 Contributing
 
-Contributions, issue reports, and enhancement requests are welcome.
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-enhancement`
-3. Commit changes: `git commit -m "Add: description of change"`
-4. Push to branch: `git push origin feature/your-enhancement`
-5. Open a Pull Request with a clear description of changes
 
 
 
