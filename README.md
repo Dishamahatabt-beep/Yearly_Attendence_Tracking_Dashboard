@@ -158,10 +158,8 @@ Net In-Hand Salary         ₹50,32,585.76
 
 ---
 
-## 🛠️ Tech Stack
 
 ```
-[ PLACEHOLDER — Update with your actual tools ]
 ```
 
 | Layer | Technology |
@@ -173,12 +171,12 @@ Net In-Hand Salary         ₹50,32,585.76
 | **Version Control** | Git + GitHub |
 | **Report Format** | .pbix (Power BI) / .xlsx (Excel) |
 
-> ⚠️ *Replace placeholder entries above with confirmed tools from your build environment.*
 
-### 🧮 DAX Measures / Excel Formulas Used
+
+### 🧮  Excel Formulas Used
 
 ```
-[ PLACEHOLDER — Document your key formulas here ]
+
 
 Examples:
 - Attendance % = DIVIDE([Total Presence Days], [Total Working Days], 0)
@@ -220,7 +218,7 @@ hr-attendance-tracker/
 ### Prerequisites
 
 ```
-[ PLACEHOLDER — Confirm your tool and version requirements ]
+
 ```
 
 - Microsoft Power BI Desktop (v2.x or later) **OR** Microsoft Excel 2019 / Microsoft 365
@@ -228,19 +226,6 @@ hr-attendance-tracker/
 - Windows 10/11 (Power BI Desktop is Windows-only natively)
 
 ### Opening the Dashboard
-
-**For Power BI (.pbix):**
-
-```bash
-# 1. Clone this repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-
-# 2. Navigate to the dashboard directory
-cd hr-attendance-tracker/dashboard/
-
-# 3. Open the .pbix file in Power BI Desktop
-# Double-click HR_Attendance_Dashboard.pbix
-# OR: File → Open → Select .pbix file
 ```
 
 **For Excel (.xlsx):**
@@ -285,26 +270,17 @@ Contributions, issue reports, and enhancement requests are welcome.
 4. Push to branch: `git push origin feature/your-enhancement`
 5. Open a Pull Request with a clear description of changes
 
----
 
-## 📄 License
-
-```
-[ PLACEHOLDER — Specify your license ]
-```
-
-This project is licensed under the [MIT License](./LICENSE) — or replace with your organization's licensing terms.
 
 ---
 
 ## 👤 Author
 
 ```
-[ PLACEHOLDER — Add your details ]
 ```
 
-**Maintainer:** `<Your Name>`
-**GitHub:** [@your-username](https://github.com/your-username)
+**Maintainer:** `<Dishamahatabt>`
+
 **Report Issues:** [Open an Issue](https://github.com/your-username/your-repo-name/issues)
 
 ---
