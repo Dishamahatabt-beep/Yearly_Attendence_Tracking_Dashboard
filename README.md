@@ -161,12 +161,12 @@ Net In-Hand Salary         ₹50,32,585.76
 
 | Layer | Technology |
 |---|---|
-| **Data Source** | Microsoft Excel (.xlsx) / CSV |
-| **Dashboard & Visualization** | Microsoft Power BI Desktop / Microsoft Excel |
-| **Data Modeling** | Power Query (M Language) / Excel Data Model |
-| **Calculated Measures** | DAX (Data Analysis Expressions) / Excel Formulas |
+| **Data Source** | Microsoft Excel (.xlsx) |
+| **Dashboard & Visualization** |Microsoft Excel |
+| **Data Modeling** |Excel Data Model |
+| **Calculated Measures** |Excel Formulas |
 | **Version Control** | Git + GitHub |
-| **Report Format** | .pbix (Power BI) / .xlsx (Excel) |
+| **Report Format** | .xlsx (Excel) |
 
 
 
@@ -190,8 +190,8 @@ Examples:
 hr-attendance-tracker/
 │
 ├── 📊 dashboard/
-│   ├── HR_Attendance_Dashboard.pbix       # Power BI source file
-│   └── HR_Attendance_Dashboard.xlsx       # Excel source file (if applicable)
+│   ├── HR_Attendance_Dashboard.xlsx       # Excel source file
+│   
 │
 ├── 📂 data/
 │   ├── raw/
@@ -221,10 +221,10 @@ hr-attendance-tracker/
 
 **For Excel (.xlsx):**
 
-```bash
+```
 # 1. Clone or download the repository
 # 2. Open HR_Attendance_Dashboard.xlsx in Excel 2019 / Microsoft 365
-# 3. Enable macros/content if prompted
+# 3. Enable macros
 # 4. Navigate to the Dashboard tab
 ```
 
@@ -234,7 +234,7 @@ hr-attendance-tracker/
 2. Use the **Role Slicer** to filter by department: Accountant, Analyst, HR, Manager, Stuff, or Team Leader.
 3. Use the **Employee ID Slicer** to drill into any individual (Emp001–Emp011).
 4. All visuals respond dynamically to multi-slicer combinations.
-5. To reset filters: click the **Clear Filters** icon or press `Ctrl+Alt+C` in Power BI.
+
 
 ---
 
