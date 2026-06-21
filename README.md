@@ -213,17 +213,11 @@ hr-attendance-tracker/
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
 
 ```
 
 ```
 
-- Microsoft Power BI Desktop (v2.x or later) **OR** Microsoft Excel 2019 / Microsoft 365
-- Minimum 4 GB RAM recommended for full dataset rendering
-- Windows 10/11 (Power BI Desktop is Windows-only natively)
 
 ### Opening the Dashboard
 ```
