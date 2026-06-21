@@ -270,10 +270,16 @@ Contributions, issue reports, and enhancement requests are welcome.
 
 ## 👤 Author
 
-```
-```
+**Disha Mahata**
 
-**Maintainer:** `<Dishamahatabt>`
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/disha-mahata-4a1764390)
+- 💻 GitHub: [github.com/your-username](https://github.com/Dishamahata-beep)
+- 📧 Email: dishamahatabt@gmail.com
+
+---
+
+> ⭐ *If you found this project helpful or interesting, consider starring the repository — it helps others discover it!*
+
 
 **Report Issues:** [Open an Issue](https://github.com/your-username/your-repo-name/issues)
 
