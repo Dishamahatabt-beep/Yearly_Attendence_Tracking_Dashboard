@@ -6,7 +6,9 @@
 
 ## 🖼️ Dashboard Preview
 
-
+<p aling="center">
+   <img src="Yearly Attendence Tracking.png" alt="Yearly Attendence Tracking" Width="100%"
+</p>   
 
 
 
