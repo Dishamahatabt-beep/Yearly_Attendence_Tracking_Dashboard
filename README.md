@@ -27,12 +27,11 @@ This dashboard provides a centralized, data-driven framework for tracking workfo
 - [Dashboard Features](#-dashboard-features)
 - [Financial Salary Breakdown](#-financial-salary-breakdown)
 - [Full-Year Benchmark Metrics](#-full-year-benchmark-metrics)
-- [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [Data Scope & Report Period](#-data-scope--report-period)
 - [Contributing](#-contributing)
-- [License](#-license)
+  
 
 ---
 
@@ -281,7 +280,6 @@ Contributions, issue reports, and enhancement requests are welcome.
 > ⭐ *If you found this project helpful or interesting, consider starring the repository — it helps others discover it!*
 
 
-**Report Issues:** [Open an Issue](https://github.com/your-username/your-repo-name/issues)
 
 ---
 
